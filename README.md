@@ -17,6 +17,7 @@ Splash Screen.
 <br clear="left"/>
 <br/>
 
+
 <img align="left" src="https://github.com/SEDACanpolat/AnkaramedipolApp/blob/main/medipol_app/readme_images/animasyon.png" width=300   />
 Animation Screen.
 <br clear="left"/>
